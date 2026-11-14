@@ -145,7 +145,7 @@ pip install tensorflow numpy opencv-python matplotlib pillow
 
 ## Author
 
-**Ramanathan P**
+**Ramanathan PL**
 
 Pre-Final Year, Electronics and Communication Engineering (ECE)
 
